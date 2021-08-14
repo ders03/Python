@@ -1,0 +1,6 @@
+width = 230 
+height = 40
+the coordinates work as follows: 
+origin (0,0) 
+bottom right(gui.get_width-1, gui.get_height-1) 
+it counts LEFT to RIGHT then TOP to BOTTOM

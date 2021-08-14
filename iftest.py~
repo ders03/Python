@@ -1,0 +1,9 @@
+import string 
+lower_case = string.ascii_lowercase 
+def f(): 
+    for x in lower_case: 
+        for y in lower_case: 
+            if x!=y: 
+                return(x+y) 
+                
+print(f())
